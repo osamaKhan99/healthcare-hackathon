@@ -1,0 +1,9 @@
+.hosp-chart, .week-income, .month-income{
+    padding: 10px;
+    margin: 15px 0;
+    border-radius: 10px;
+    background-color: #FFF;
+    box-shadow: 2px 2px 9px -1px rgba(231, 228, 228, 0.86);
+    -webkit-box-shadow: 2px 2px 9px -1px rgba(231,228,228,0.86);
+    -moz-box-shadow: 2px 2px 9px -1px rgba(231,228,228,0.86);
+}

@@ -1,0 +1,24 @@
+.container{
+    border-radius: 10px;
+}
+.appt-box{
+    margin: 4em 0;
+}
+.heading{
+    margin-top: 10px;
+    font-size: 40px;
+    font-weight: 700;
+}
+.appt-btn{
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    border-radius: 50%;
+    border: none;
+    background-color: #588EFF;
+    padding: 15px;
+}
+.btn-icon{
+    color: #fff;
+    font-size: 30px;
+}

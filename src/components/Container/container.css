@@ -1,0 +1,27 @@
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+table, td, th {
+    border-bottom: 1px solid #ddd ;
+    text-align: left;
+}
+td{
+    background-color: #ffffff;
+    padding: 15px 20px;
+    color: rgb(68, 65, 65);
+}
+th{
+    background-color: #FAFAFA;
+    font-weight: 700;
+    text-transform: capitalize;
+    padding: 15px 20px;
+}
+.pen-icon {
+    color: rgb(177, 177, 177);
+    cursor: pointer;
+}
+.bin-icon{
+    color: rgb(255, 75, 75);
+    cursor: pointer;
+}
